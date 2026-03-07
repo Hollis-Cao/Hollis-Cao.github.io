@@ -1,21 +1,6 @@
 ---
-layout: about
-title: 关于我
 permalink: /
-subtitle: 武汉大学计算机科学与技术专业 本科在读
-
-profile:
-  align: right
-  image: images/Cao.jpg
-  image_circular: false
-  more_info: >
-    <p>武汉大学</p>
-    <p>计算机科学与技术</p>
-    <p>2024302111018@whu.edu.cn</p>
-
-news: true
-selected_papers: false
-social: true
+author_profile: true
 ---
 
 你好！我是**曹祚浩**，目前是**武汉大学**计算机科学与技术专业的本科生。

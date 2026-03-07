@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "曹祚浩的学术主页"
 description              : "武汉大学24级计算机系本科生 "
-repository               : "Hollis_Cao/Hollis_Cao.github.io"
+repository               : "Hollis-Cao/Hollis_Cao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "曹祚浩"
-  avatar           : "C:\Users\Lenovo\Desktop\学习\曹祚浩-秘书处-未来学院成员.jpg"
+  avatar           : "images/曹祚浩-秘书处-未来学院成员.jpg"
   bio              : "武汉大学"
   location         : "湖北武汉"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hollis_Cao"
+  github           : "Hollis-Cao"
   google_plus      :
   keybase          :
   instagram        :

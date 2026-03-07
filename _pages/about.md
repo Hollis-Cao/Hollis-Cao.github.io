@@ -6,7 +6,7 @@ subtitle: 武汉大学计算机科学与技术专业 本科在读
 
 profile:
   align: right
-  image: images/Cao.png
+  image: images/曹祚浩-秘书处-未来学院成员.jpg
   image_circular: false
   more_info: >
     <p>武汉大学</p>
